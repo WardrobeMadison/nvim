@@ -9,7 +9,7 @@ venom.setup({
   auto_activate = true,
   echo = true,
   quiet = false,
-  symbol = "🐍",
+  symbol = "🍆💦😏",
   root_patterns = { ".env", ".venv", ".python-version" },
   use_tools = true,
   tools = {},
